@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedadelll&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedadelll" /> </p>
 
-- 🌱 I’m currently learning **MongoDB and Mongoose**
+- 🌱 I’m currently learning **React.Js**
 
 - 👨‍💻 All of my projects are available at [https://moashour.onrender.com](https://moashour.onrender.com)
 
