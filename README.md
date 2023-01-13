@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://moashour.onrender.com/assets/CV.pdf](https://moashour.onrender.com/assets/CV.pdf)
 
-- ⚡ Fun fact **I play chess♟️**
+- ⚡ Fun fact **I love playing chess♟️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
