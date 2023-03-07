@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedadelll&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedadelll" /> </p>
 
-- 🌱 I’m currently learning **React.Js**
+- 🌱 I’m currently learning **Redux, React router, DOM**
 
 - 👨‍💻 All of my projects are available at [https://moashour.onrender.com](https://moashour.onrender.com)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Node.Js**
+- 💬 Ask me about **HTML, CSS, JavaScript, React.Js, Node.Js**
 
 - 📫 How to reach me **ashour521@gmail.com**
 
